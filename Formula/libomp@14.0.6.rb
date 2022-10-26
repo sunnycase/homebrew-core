@@ -1,4 +1,4 @@
-class Libomp < Formula
+class LibompAT1406 < Formula
   desc "LLVM's OpenMP runtime library"
   homepage "https://openmp.llvm.org/"
   url "https://github.com/llvm/llvm-project/releases/download/llvmorg-14.0.6/openmp-14.0.6.src.tar.xz"
